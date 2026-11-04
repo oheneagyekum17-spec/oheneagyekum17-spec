@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**oheneagyekum17-spec/oheneagyekum17-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Agyekum-O-Enock
+## About me
+My name is Agyekum Ohene Enock,I was born on 11th July,2001.I as a Ghanaian who believes in hard work,discipline, and determination. 
+## Education Background
+I started my basic education at Godson Academy, where i completed my studies in 2017.After completing my basic education i proceeded to Kpando Secondary School,where i completed my secondary education in 2020.
+## Hobbies
+My hobbies are playing TV games and Volleyball.I enjoy these activities because they help me to relax,have fun and develop my skills.
+## Goals
+I aim to acquire new things and i also believe in learning new things and improving myself to achieve my goals in life.
+ Thanks for Visiting My Github Profile!!
